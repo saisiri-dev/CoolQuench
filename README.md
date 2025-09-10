@@ -61,7 +61,7 @@ Test efficiency in real-world conditions.
 Explore patent opportunities for unique cooling mechanism.
 
 ## Project Presentation
-📄 [CoolQuench Prototype PPT](CoolQuench-A-Self-Cooling-Water-Bottle..pptx)
+📄 [CoolQuench Prototype PPT](https://docs.google.com/presentation/d/1sCEUAdRyCStt2mOD5UUfhJmXrA8npfSR/edit?usp=drive_link&ouid=101268218236962558694&rtpof=true&sd=true)
 
 ## 👩‍💻 About Me
 
